@@ -1,3 +1,3 @@
 # My Project
 
-## How to run project
+## How to run the project
