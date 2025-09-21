@@ -1,4 +1,7 @@
 # My Project
 
 ## How to run the project
-` npm run install `
+
+  ```
+  npm run i
+  ```
